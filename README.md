@@ -16,4 +16,4 @@ Set up sections for each of the 4 sections on the page.
 
 5. Place a picture after the first paragraph – above the second heading – this picture will be at least 600px wide and centered across the page. Add two pictures within the text – one in the Great Computer Quotes section (aligned left) and one in the section you added (aligned right). In the Other Memorable Events section, around the middle of the list, add a row of pictures based on the information presented.  Include at least 4-5 images with consistent spacing centered across the page.
 
-6. Add a new feature to cssnot yet covered in class. Apply it somewhere to the document. Explain the feature you used in a paragraph at the end of the document after the last <hr>.
+6. Add a new feature to cssnot yet covered in class. Apply it somewhere to the document. Explain the feature you used in a paragraph at the end of the document after the last < hr >.
