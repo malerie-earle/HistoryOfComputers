@@ -1,5 +1,9 @@
 # HistoryOfComputers
 First website I created for software development program assignment.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08fa9c4c-ca97-476f-a34e-a9b3487330f9/deploy-status)](https://app.netlify.com/sites/historyofcomputers11/deploys)
+
+<img width="1425" alt="historyofcomputers" src="https://github.com/malerie-earle/HistoryOfComputers/assets/141525464/dd210c1f-5ac1-415b-9bc1-cd9046920c00">
+
 
 Assignment Instructions:
 Web Design – Images,Links and CSS:
